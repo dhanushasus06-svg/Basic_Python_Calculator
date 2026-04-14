@@ -16,7 +16,7 @@ elif Operator == "/" :
     else:
         print(f"{Number_1}/{Number_2} is not divisible")
 else:
-    print("Invalid Operator")imno
+    print("Invalid Operator")
 
     
 
